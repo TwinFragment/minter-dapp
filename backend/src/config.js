@@ -21,7 +21,7 @@ const layerConfigurations = [
   },
 ];
 
-const shuffleLayerConfigurations = False;
+const shuffleLayerConfigurations = false;
 
 const debugLogs = false;
 
